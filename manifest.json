@@ -15,7 +15,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/noty/",
+    "start_url": "/",
     "background_color": "#ffffff",
     "display": "standalone",
     "theme_color": "#000000"
